@@ -1,6 +1,6 @@
 # Jasper van der Valk
 
-## Hello!
+## Hello
 
 I am a computer science graduate from King's College London who is currently working for Channable in Utrecht, The Netherlands as a Python development.
 
